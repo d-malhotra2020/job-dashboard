@@ -91,8 +91,8 @@ function render() {
     var salaryText = job.salary || 'Not listed';
     var viewStyle = isExpired ? 'background:#3f3f46;' : '';
     var statusText = isExpired ? '\u2715 Expired' : job.status;
-    var isNotNew = job.status !== 'new';
-    var markAppliedBtn = isExpired ? '' : '<button class="btn btn-applied ' + (isNotNew ? 'disabled' : '') + '" data-job-id="' + job.id + '" ' + (isNotNew ? 'disabled' : '') + '>Mark Applied</button>';
+    var canApply = job.status === 'new' || job.status === 'active';
+    var markAppliedBtn = isExpired ? '' : '<button class="btn btn-applied ' + (canApply ? '' : 'disabled') + '" data-job-id="' + job.id + '" ' + (canApply ? '' : 'disabled') + '>Mark Applied</button>';
     return '<div class="' + cardClass + '" data-job-id="' + job.id + '">' +
       '<div class="job-card-header">' +
       '<div class="job-company">' + job.company + '</div>' +
