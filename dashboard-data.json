@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-14T11:17:58.350924",
-  "generatedAt": "2026-04-14T11:17:58.350924",
-  "count": 11,
+  "last_updated": "2026-04-14T11:25:12.723039",
+  "generatedAt": "2026-04-14T11:25:12.723039",
+  "count": 12,
   "jobs": [
     {
       "id": "2",
@@ -124,6 +124,21 @@
       "stage": "tailored_resume_needed"
     },
     {
+      "id": "13",
+      "company": "Delos Data",
+      "title": "Software Development Engineer in Test - AI",
+      "url": "https://linkedin.com/jobs/view/4382727815",
+      "location": "Palo Alto, CA (Remote)",
+      "salary": "Salary not listed",
+      "date_seen": "2026-04-14",
+      "status": "shortlist",
+      "source": "linkedin-browser",
+      "resumeVariant": "hybrid",
+      "priority": "medium",
+      "decision": "tailor",
+      "stage": "tailored_resume_needed"
+    },
+    {
       "id": "12",
       "company": "Hudl",
       "title": "Quality Assurance Engineer II",
@@ -134,6 +149,21 @@
       "status": "shortlist",
       "source": "linkedin-browser",
       "resumeVariant": "sdet",
+      "priority": "medium",
+      "decision": "tailor",
+      "stage": "tailored_resume_needed"
+    },
+    {
+      "id": "14",
+      "company": "Netflix",
+      "title": "Software Development Engineer in Test 5 - Plans and Pricing",
+      "url": "https://linkedin.com/jobs/view/4353525492",
+      "location": "Remote (US)",
+      "salary": "Salary not listed",
+      "date_seen": "2026-04-14",
+      "status": "shortlist",
+      "source": "linkedin-browser",
+      "resumeVariant": "hybrid",
       "priority": "medium",
       "decision": "tailor",
       "stage": "tailored_resume_needed"
@@ -152,21 +182,6 @@
       "priority": "medium",
       "decision": "tailor",
       "stage": "tailored_resume_needed"
-    },
-    {
-      "id": "10",
-      "company": "Docker, Inc",
-      "title": "[Remote] Staff Backend Engineer, Hub (US East Coast) \ud83d\udd01 Revisit",
-      "url": "https://jobright.ai/jobs/info/69a668abd706a731db3858a9",
-      "location": "Remote",
-      "salary": "Salary not listed",
-      "date_seen": "2026-04-14",
-      "status": "shortlist",
-      "source": "verified-history",
-      "resumeVariant": "backend",
-      "priority": "low",
-      "decision": "skip",
-      "stage": "wishlist"
     }
   ],
   "dryRun": false
