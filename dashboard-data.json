@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-14T11:25:12.723039",
-  "generatedAt": "2026-04-14T11:25:12.723039",
-  "count": 12,
+  "last_updated": "2026-04-14T11:30:17.208820",
+  "generatedAt": "2026-04-14T11:30:17.208820",
+  "count": 14,
   "jobs": [
     {
       "id": "2",
@@ -124,6 +124,21 @@
       "stage": "tailored_resume_needed"
     },
     {
+      "id": "15",
+      "company": "CrowdStrike",
+      "title": "Sr. SDET - Front End (Hybrid)",
+      "url": "https://linkedin.com/jobs/view/4355303081",
+      "location": "Sunnyvale, CA (Remote)",
+      "salary": "Salary not listed",
+      "date_seen": "2026-04-14",
+      "status": "shortlist",
+      "source": "linkedin-browser",
+      "resumeVariant": "sdet",
+      "priority": "medium",
+      "decision": "tailor",
+      "stage": "tailored_resume_needed"
+    },
+    {
       "id": "13",
       "company": "Delos Data",
       "title": "Software Development Engineer in Test - AI",
@@ -182,6 +197,21 @@
       "priority": "medium",
       "decision": "tailor",
       "stage": "tailored_resume_needed"
+    },
+    {
+      "id": "10",
+      "company": "Docker, Inc",
+      "title": "[Remote] Staff Backend Engineer, Hub (US East Coast) \ud83d\udd01 Revisit",
+      "url": "https://jobright.ai/jobs/info/69a668abd706a731db3858a9",
+      "location": "Remote",
+      "salary": "Salary not listed",
+      "date_seen": "2026-04-14",
+      "status": "backlog",
+      "source": "verified-history",
+      "resumeVariant": "backend",
+      "priority": "low",
+      "decision": "skip",
+      "stage": "wishlist"
     }
   ],
   "dryRun": false
