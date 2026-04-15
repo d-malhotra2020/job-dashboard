@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-15T07:05:14.456210",
-  "generatedAt": "2026-04-15T07:05:14.456210",
-  "count": 14,
+  "last_updated": "2026-04-15T08:18:00",
+  "generatedAt": "2026-04-15T08:18:00",
+  "count": 19,
   "jobs": [
     {
       "id": "2",
@@ -212,6 +212,81 @@
       "priority": "low",
       "decision": "skip",
       "stage": "wishlist"
+    },
+    {
+      "id": "backlog-16",
+      "company": "Grafana",
+      "title": "Staff Backend Engineer - Databases Pyroscope | US | Remote \ud83d\udd01 Previous lead",
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5807096004",
+      "location": "",
+      "salary": "Salary not listed",
+      "date_seen": "2026-04-13",
+      "status": "backlog",
+      "source": "verified-history",
+      "resumeVariant": "backend",
+      "priority": "medium",
+      "decision": "skip",
+      "stage": "wishlist"
+    },
+    {
+      "id": "backlog-17",
+      "company": "Checkr",
+      "title": "Senior Python Engineer, Truework \ud83d\udd01 Previous lead",
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/7812229",
+      "location": "",
+      "salary": "Salary not listed",
+      "date_seen": "2026-04-13",
+      "status": "backlog",
+      "source": "verified-history",
+      "resumeVariant": "backend",
+      "priority": "medium",
+      "decision": "skip",
+      "stage": "wishlist"
+    },
+    {
+      "id": "backlog-18",
+      "company": "Checkr",
+      "title": "Python Engineer, Truework \ud83d\udd01 Previous lead",
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/7812221",
+      "location": "",
+      "salary": "Salary not listed",
+      "date_seen": "2026-04-13",
+      "status": "backlog",
+      "source": "verified-history",
+      "resumeVariant": "backend",
+      "priority": "medium",
+      "decision": "skip",
+      "stage": "wishlist"
+    },
+    {
+      "id": "backlog-19",
+      "company": "Adobe",
+      "title": "Software Development Engineer in Test \ud83d\udd01 Previous lead",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-in-Test_R165301/apply",
+      "location": "",
+      "salary": "Salary not listed",
+      "date_seen": "2026-04-13",
+      "status": "backlog",
+      "source": "verified-history",
+      "resumeVariant": "hybrid",
+      "priority": "low",
+      "decision": "tailor",
+      "stage": "tailored_resume_needed"
+    },
+    {
+      "id": "backlog-20",
+      "company": "Adobe",
+      "title": "Backend Engineer - Node.js / Fastify \ud83d\udd01 Previous lead",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Backend-Engineer---Nodejs---Fastify_R165716-1/apply",
+      "location": "",
+      "salary": "Salary not listed",
+      "date_seen": "2026-04-13",
+      "status": "backlog",
+      "source": "verified-history",
+      "resumeVariant": "backend",
+      "priority": "medium",
+      "decision": "tailor",
+      "stage": "tailored_resume_needed"
     }
   ],
   "dryRun": false
