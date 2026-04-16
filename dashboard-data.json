@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-15T10:20:21.944031",
-  "generatedAt": "2026-04-15T10:20:21.944031",
-  "count": 15,
+  "last_updated": "2026-04-16T07:05:21.176507",
+  "generatedAt": "2026-04-16T07:05:21.176507",
+  "count": 16,
   "jobs": [
     {
       "id": "2",
@@ -26,6 +26,21 @@
       "location": "Remote (US)",
       "salary": "$253,895-$298,700",
       "date_seen": "2026-04-14",
+      "status": "shortlist",
+      "source": "greenhouse",
+      "resumeVariant": "backend",
+      "priority": "high",
+      "decision": "apply_now",
+      "stage": "apply_now"
+    },
+    {
+      "id": "17",
+      "company": "GitLab",
+      "title": "Senior Backend Engineer, Analytics Instrumentation (Golang)",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8451512002",
+      "location": "Remote, Americas",
+      "salary": "$117,600-$252,000",
+      "date_seen": "2026-04-16",
       "status": "shortlist",
       "source": "greenhouse",
       "resumeVariant": "backend",
@@ -90,21 +105,6 @@
       "source": "greenhouse",
       "resumeVariant": "backend",
       "priority": "high",
-      "decision": "apply_now",
-      "stage": "apply_now"
-    },
-    {
-      "id": "16",
-      "company": "Canonical",
-      "title": "Software Engineer - Python/Golang - Kubernetes",
-      "url": "https://www.builtinaustin.com/job/software-engineer-pythongolang-kubernetes/1262478?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "location": "United States",
-      "salary": "$80,000-$120,000",
-      "date_seen": "2026-04-15",
-      "status": "shortlist",
-      "source": "unknown",
-      "resumeVariant": "backend",
-      "priority": "low",
       "decision": "apply_now",
       "stage": "apply_now"
     },
@@ -212,6 +212,21 @@
       "priority": "medium",
       "decision": "tailor",
       "stage": "tailored_resume_needed"
+    },
+    {
+      "id": "16",
+      "company": "Canonical",
+      "title": "Software Engineer - Python/Golang - Kubernetes \ud83d\udd01 Revisit",
+      "url": "https://www.builtinaustin.com/job/software-engineer-pythongolang-kubernetes/1262478?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "location": "United States",
+      "salary": "$80,000-$120,000",
+      "date_seen": "2026-04-15",
+      "status": "backlog",
+      "source": "unknown",
+      "resumeVariant": "backend",
+      "priority": "low",
+      "decision": "skip",
+      "stage": "wishlist"
     },
     {
       "id": "10",
