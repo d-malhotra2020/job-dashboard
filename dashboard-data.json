@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-17T07:05:31.450432",
-  "generatedAt": "2026-04-17T07:05:31.450432",
-  "count": 16,
+  "last_updated": "2026-04-20T07:05:29.210401",
+  "generatedAt": "2026-04-20T07:05:29.210401",
+  "count": 17,
   "jobs": [
     {
       "id": "2",
@@ -26,6 +26,21 @@
       "location": "Remote (US)",
       "salary": "$253,895-$298,700",
       "date_seen": "2026-04-14",
+      "status": "shortlist",
+      "source": "greenhouse",
+      "resumeVariant": "backend",
+      "priority": "high",
+      "decision": "apply_now",
+      "stage": "apply_now"
+    },
+    {
+      "id": "18",
+      "company": "Coinbase",
+      "title": "Senior Staff Software Engineer, Backend - Platform (Core Automation)",
+      "url": "https://www.coinbase.com/careers/positions/7580292?gh_jid=7580292",
+      "location": "Remote (US)",
+      "salary": "$253,895-$298,700",
+      "date_seen": "2026-04-20",
       "status": "shortlist",
       "source": "greenhouse",
       "resumeVariant": "backend",
