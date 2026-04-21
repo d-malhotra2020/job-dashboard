@@ -1,8 +1,23 @@
 {
-  "last_updated": "2026-04-20T07:05:29.210401",
-  "generatedAt": "2026-04-20T07:05:29.210401",
-  "count": 17,
+  "last_updated": "2026-04-21T07:05:35.364814",
+  "generatedAt": "2026-04-21T07:05:35.364814",
+  "count": 18,
   "jobs": [
+    {
+      "id": "19",
+      "company": "Checkr",
+      "title": "Senior Python Engineer, Truework",
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/7834068",
+      "location": "San Francisco, CA",
+      "salary": "$185,000-$218,000",
+      "date_seen": "2026-04-21",
+      "status": "shortlist",
+      "source": "greenhouse",
+      "resumeVariant": "backend",
+      "priority": "high",
+      "decision": "apply_now",
+      "stage": "apply_now"
+    },
     {
       "id": "2",
       "company": "Coinbase",
